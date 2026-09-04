@@ -9,4 +9,4 @@ npm install
 npm run dev
 ```
 
-Weatherly uses realistic local mock data for San Francisco, London, and Tokyo. No API key is required.
+Weatherly fetches live current conditions and seven-day forecasts from the Open-Meteo forecast and worldwide geocoding APIs. No API key is required. Search for a city or country to load weather from locations around the world.
